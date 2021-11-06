@@ -7,7 +7,7 @@
   
 ## **About Me**
 
-I'm a **PM** turned **Data Scientist** with a passion for **Deep Learning**. I love diving into data, automating away boredom with Python, and working with Tensorflow. When I'm not coding, you can find me running, hiking and flying in my friends' C172.
+I'm a **PM** turned **Data Scientist** with a passion for **Deep Learning**. I love diving into data, automating away boredom with Python, and working with Tensorflow. When I'm not coding, you can find me running, hiking or flying in my friends' C172.
 <br>
 
 ## **Tech & Tools** 🔧
